@@ -1,0 +1,36 @@
+# Data and generated outputs are deposited separately (HydroShare); never commit them here.
+data/
+results/
+outputs/
+figures/
+plots/
+
+# Data/binary formats
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.nc
+*.mat
+*.pdf
+
+# Secrets
+.env
+.env.local
+credentials.json
+token.json
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

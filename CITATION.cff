@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software (Zenodo) and the dataset (HydroShare) below."
+title: "Non-stationary groundwater pumping behavior and coupled groundwater forecast uncertainty"
+abstract: >-
+  Code to reproduce the analyses and figures in Hu & Xi, "From pumping regime
+  shifts to groundwater forecast uncertainty in coupled human-groundwater
+  models". Pipeline: deep temporal clustering, Bayesian
+  changepoint detection, stationary vs. regime-aware XGBoost pumping models,
+  bootstrap ensembles, and propagation through the RRCA MODFLOW-2000 model.
+type: software
+authors:
+  - family-names: Hu
+    given-names: Yao
+    affiliation: "University of Delaware"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add Yao Hu ORCID
+  - family-names: Xi
+    given-names: Shihao
+    affiliation: "University of Delaware"
+license: MIT
+version: "1.0.0"                 # TODO: set to the tagged release version
+date-released: "2026-06-03"      # TODO: set to the release date
+repository-code: "https://github.com/watersecurity/gw-pumping-regime-shifts"   # TODO: confirm repo URL
+doi: "10.5281/zenodo.XXXXXXXX"   # TODO: replace with the new Zenodo version DOI
+keywords:
+  - groundwater
+  - non-stationarity
+  - changepoint detection
+  - agent-based modeling
+  - MODFLOW
+  - High Plains Aquifer
+references:
+  - type: data
+    title: "Groundwater Irrigation Data in Part of the Ogallala Aquifer"
+    authors:
+      - family-names: Hu
+        given-names: Yao
+    year: 2024
+    notes: "HydroShare dataset (CC-BY 4.0). TODO: add resolving DOI."
+    url: "http://www.hydroshare.org/resource/adc939312fc244e08797fd5110a88334"

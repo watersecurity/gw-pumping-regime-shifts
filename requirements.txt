@@ -1,0 +1,14 @@
+# Python 3.11 recommended. All dependencies are permissively licensed
+# (BSD / Apache-2.0 / MIT / PSF) — no copyleft, compatible with the MIT release.
+numpy==1.26.4
+pandas==2.2.1
+scipy==1.13.0
+matplotlib==3.8.3
+scikit-learn==1.4.2
+xgboost==2.0.3
+optuna==4.7.0
+tensorflow==2.16.2
+statsmodels==0.14.6
+tslearn==0.7.0
+bayesian-changepoint-detection==1.0.0
+pytest==7.1.2

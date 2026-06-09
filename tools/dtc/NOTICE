@@ -1,0 +1,16 @@
+Deep Temporal Clustering (DTC)
+==============================
+
+The files in this directory (DeepTemporalClustering.py, TAE.py,
+TSClusteringLayer.py, tsdistances.py) are derived from the Deep Temporal
+Clustering implementation by Florent Forest (FlorentF9):
+
+    https://github.com/FlorentF9/DeepTemporalClustering
+
+Redistributed under the upstream MIT License.
+Original work Copyright (c) Florent Forest.
+
+Method reference:
+  Sai Madiraju, N., Sadat, S. M., Fisher, D., & Karimabadi, H. (2018).
+  Deep Temporal Clustering: Fully Unsupervised Learning of Time-Domain
+  Features. arXiv:1802.01059.
