@@ -12,15 +12,13 @@ authors:
   - family-names: Hu
     given-names: Yao
     affiliation: "University of Delaware"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add Yao Hu ORCID
   - family-names: Xi
     given-names: Shihao
     affiliation: "University of Delaware"
 license: MIT
-version: "1.0.0"                 # TODO: set to the tagged release version
-date-released: "2026-06-03"      # TODO: set to the release date
-repository-code: "https://github.com/watersecurity/gw-pumping-regime-shifts"   # TODO: confirm repo URL
-doi: "10.5281/zenodo.XXXXXXXX"   # TODO: replace with the new Zenodo version DOI
+version: "1.0.0"
+date-released: "2026-06-03"
+repository-code: "https://github.com/watersecurity/gw-pumping-regime-shifts"
 keywords:
   - groundwater
   - non-stationarity
@@ -35,5 +33,5 @@ references:
       - family-names: Hu
         given-names: Yao
     year: 2024
-    notes: "HydroShare dataset (CC-BY 4.0). TODO: add resolving DOI."
+    notes: "HydroShare dataset (CC-BY 4.0)."
     url: "http://www.hydroshare.org/resource/adc939312fc244e08797fd5110a88334"
