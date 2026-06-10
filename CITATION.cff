@@ -16,8 +16,9 @@ authors:
     given-names: Shihao
     affiliation: "University of Delaware"
 license: MIT
-version: "1.0.0"
-date-released: "2026-06-03"
+version: "1.0.1"
+doi: "10.5281/zenodo.20618813"
+date-released: "2026-06-10"
 repository-code: "https://github.com/watersecurity/gw-pumping-regime-shifts"
 keywords:
   - groundwater

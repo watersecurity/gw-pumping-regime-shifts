@@ -38,8 +38,8 @@ the workflow is by \citet{forest2018dtc}.
                forecast uncertainty},
   year      = {2026},
   publisher = {Zenodo},
-  version   = {v1.0.0},                 % TODO: tagged release
-  doi       = {10.5281/zenodo.XXXXXXXX},% TODO: new Zenodo version DOI
+  version   = {v1.0.1},
+  doi       = {10.5281/zenodo.20618814},
   note      = {[Software], MIT License}
 }
 
