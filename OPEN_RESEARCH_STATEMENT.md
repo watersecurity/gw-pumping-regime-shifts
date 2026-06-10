@@ -19,7 +19,7 @@ MIT License (no registration required) in Zenodo \citep{hu2026code} and is devel
 \url{https://github.com/watersecurity/gw-pumping-regime-shifts}. The processed
 input data---county-level monthly groundwater irrigation depth, crop prices, precipitation,
 and temperature for the High Plains Aquifer Hydrologic Observatory Area (1993--2020)---are
-openly available in HydroShare under a CC-BY 4.0 license \citep{hu2024data}. Source data are
+openly available in HydroShare under a CC-BY 4.0 license \citep{hu2026data}. Source data are
 third party: daily precipitation and temperature are from the Global Historical Climatology
 Network--Daily \citep{ghcnd2012}; crop commodity prices are from the U.S. Department of
 Agriculture National Agricultural Statistics Service \citep{usda_nass}; diesel fuel prices
@@ -43,13 +43,12 @@ the workflow is by \citet{forest2018dtc}.
   note      = {[Software], MIT License}
 }
 
-@misc{hu2024data,
+@misc{hu2026data,
   author       = {Hu, Yao},
-  title        = {Groundwater Irrigation Data in Part of the Ogallala Aquifer},
-  year         = {2024},
+  title        = {HPA-HOA Groundwater Pumping Behavior Data},
+  year         = {2026},
   howpublished = {HydroShare},
-  doi          = {10.4211/hs.XXXXXXXX}, % TODO: resolving HydroShare DOI
-  url          = {http://www.hydroshare.org/resource/adc939312fc244e08797fd5110a88334},
+  url          = {https://www.hydroshare.org/resource/d314b7e633024ee58649414468ad77f8},
   note         = {[Dataset], CC-BY 4.0}
 }
 

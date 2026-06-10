@@ -29,10 +29,10 @@ keywords:
   - High Plains Aquifer
 references:
   - type: data
-    title: "Groundwater Irrigation Data in Part of the Ogallala Aquifer"
+    title: "HPA-HOA Groundwater Pumping Behavior Data"
     authors:
       - family-names: Hu
         given-names: Yao
-    year: 2024
+    year: 2026
     notes: "HydroShare dataset (CC-BY 4.0)."
-    url: "http://www.hydroshare.org/resource/adc939312fc244e08797fd5110a88334"
+    url: "https://www.hydroshare.org/resource/d314b7e633024ee58649414468ad77f8"
